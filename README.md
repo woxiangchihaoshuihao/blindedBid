@@ -1,1 +1,6 @@
-# blindedBid
+# 盲拍合约
+出自hackquest里的教学
+
+部署在sonic测试网上（sepolia测试币比较珍贵^^）
+
+合约地址0xf328e492f2e4012cfc1e13f625674b2357fead9f5b18c759463f21704e7cfb62
